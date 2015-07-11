@@ -1,5 +1,7 @@
 # ProjectStarterJS
 
+[![Build Status](https://travis-ci.org/DerekSeverson/ProjectStarterJS.svg)](https://travis-ci.org/DerekSeverson/ProjectStarterJS
+
 Starting Point for JS Module Projects.
 
 Setup for JS Projects that want to use:
