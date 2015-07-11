@@ -1,5 +1,15 @@
-# PredicateJS
+# ProjectStarterJS
 
-[![Build Status](https://travis-ci.org/DerekSeverson/PredicateJS.svg?branch=master)](https://travis-ci.org/DerekSeverson/PredicateJS)
+Starting Point for JS Module Projects.
 
-JS Module for Robust Predicate Creation
+Setup for JS Projects that want to use:
+- Gulp - Task Runner
+- Mocha - Testing Framework
+- Chai - Assertion Library
+- LoDash - JS Utility Belt
+- Travis - Continous Integration 
+- Git - Code Repository
+- NPM - Node Package Manager
+- MIT - MIT License
+- README - Markdown
+- UMD - Universal Module Definition - supports AMD, CommonJS & Global
