@@ -1,0 +1,33 @@
+{
+  "name": "ProjectStarterJS",
+  "version": "1.0.0",
+  "description": "Starting Point for JS Module Projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DerekSeverson/ProjectStarterJS"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "module",
+    "project",
+    "start",
+    "gulp",
+    "mocha"
+  ],
+  "author": "Derek Severson",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "*"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "gulp": "*",
+    "gulp-mocha": "*",
+    "mocha": "*"
+  }
+}
